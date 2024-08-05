@@ -9,7 +9,7 @@ I'm Katarzyna Chrost, a frontend developer who loves working with the latest web
 I'm always eager to share my knowledge and learn new things every day.
 
 Check out my website
-Want to know more about me and my projects? Visit my website: katarzynachrost.pl
+Want to know more about me and my projects? Visit my [website](https://www.katarzynachrost.pl)
 
 Happy coding! ✨
 
