@@ -7,7 +7,6 @@ Tech Stack:
 - Learning Next.js 🚀
 - Learning React Native 📱
 
-Check out my website
 Want to know more about me and my projects? Visit my [website](https://www.katarzynachrost.pl)
 
 Happy coding! ✨
