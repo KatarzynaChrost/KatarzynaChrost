@@ -9,5 +9,5 @@ Tech Stack:
 
 Want to know more about me and my projects? Visit my [website](https://katarzynachrost.vercel.app)
 
-Happy coding! ✨
+Happy coding!✨
 
